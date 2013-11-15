@@ -14,3 +14,4 @@ Main Objectives:
 
 Sources: 
 1. Data-Intensive Text processing
+2. Maybe using some communication systems sources (like sklar's paper- How I learned the Trellis)
